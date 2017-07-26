@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: TravelDevOps1
-  host: TravelDevOps1
+  name: DevOps-Showcase
+  host: DevOps-Showcase
   disk_quota: 1024M
